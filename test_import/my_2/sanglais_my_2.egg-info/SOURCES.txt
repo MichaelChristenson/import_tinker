@@ -1,0 +1,6 @@
+sanglais/lib_2/__init__.py
+sanglais/lib_2/lib_2.py
+sanglais_my_2.egg-info/PKG-INFO
+sanglais_my_2.egg-info/SOURCES.txt
+sanglais_my_2.egg-info/dependency_links.txt
+sanglais_my_2.egg-info/top_level.txt

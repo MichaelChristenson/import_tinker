@@ -1,0 +1,1 @@
+print("Entered my_2.__init__.py")
