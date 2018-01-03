@@ -1,6 +1,6 @@
-from setuptools import setup
-
+from setuptools import setup, find_packages
+print(find_packages())
 setup(
     name='sanglais-my-4',
-    py_modules=['sanglais.lib_4'],
+    packages=find_packages(),
 )
